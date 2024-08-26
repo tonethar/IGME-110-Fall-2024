@@ -8,7 +8,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 2. Apply for the student developer pack (this will give you FREE private repos).
 
-3). Here's the link for signing up: https://github.com/education
+3. Here's the link for signing up: https://github.com/education
 
 
 ---
