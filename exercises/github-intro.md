@@ -72,7 +72,8 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
   - create a horizontal rule
   - make unordered and ordered lists
   - create a hypertext link to RIT's home page
-  - display an image (give it a image URL from the web)
+  - do that again, but make the text "RIT" clickable
+  - display an image (give it an image URL from the web)
 - Don't forget to click "Commit changes ..." when you are done!
 - Take a look at this page's markdown:
   - this page was create with markdown!
