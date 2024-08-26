@@ -13,32 +13,54 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ---
 
-## \*\* Part B - Create a GitHub Repository (aka "repo") \*\*
+## \*\* Part B - Create a new GitHub Repository (aka "repo") \*\*
 
-### 1 - 
+### 1 - Click the "+" button:
 
 ![screenshot](_images/github-intro-1.png)
 
 ---
 
-### 2 - 
+### 2 - Choose "New repository":
 
 ![screenshot](_images/github-intro-2.png)
 
 ---
 
-### 3 - 
+### 3 - Enter info
+
+\#1. Give it a name of "IGME-110-Repo" 
+
+\#2. Make it "Public"
+
+\#3. Check the box so we get a README.md file 
+
+\#4 Click "Create repository"
 
 ![screenshot](_images/github-intro-3.png)
 
 ---
 
-### 4 - 
+### 4 - See how to the current file, or create a new file
 
 ![screenshot](_images/github-intro-4.png)
 
 ---
 
+### 5 - Try editing README.md first
+
+- Refernce:
+  - https://www.markdownguide.org/cheat-sheet/
+  - https://www.markdownguide.org/basic-syntax/
+  - https://www.markdowntutorial.com/
+- Things to try
+  - create level-1 and level-2 headers
+  - create a horizontal rule
+  - make unordered and ordered lists
+  - create a hypertext link to RIT's home page
+  - display an image (give it a image URL from the web)
+
+---
 
 ## \*\* Part C - Create a Listicle! \*\*
 
