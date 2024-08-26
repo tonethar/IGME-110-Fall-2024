@@ -94,7 +94,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 - Name the file **my-listicle.md**
 - Give the list whatever theme you want  (but be sure to keep it SFW!) - some ideas:
-  - 110 media resources
+  - IGME-110 media resources
   - Generative AI Resources
   - Board Games list, Video game list, ...
   - Cool places
