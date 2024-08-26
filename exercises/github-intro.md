@@ -27,13 +27,13 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ---
 
-### 2 - 
+### 3 - 
 
 ![screenshot](_images/github-intro-3.png)
 
 ---
 
-### 3 - 
+### 4 - 
 
 ![screenshot](_images/github-intro-4.png)
 
