@@ -1,5 +1,7 @@
 # Github Intro & Make a "Listicle"!
 
+- [Github](https://github.com/) is something you will be using 
+
 ---
 
 [Part A - Setup your GitHub Account](#-part-a---setup-your-github-account-)
