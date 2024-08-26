@@ -3,7 +3,9 @@
 ---
 
 [Part A - Setup your GitHub Account](#-part-a---setup-your-github-account-)
+
 [Part B - Create a new GitHub Repository (aka "repo")](#-part-b---create-a-new-github-repository-aka-repo-)
+
 [Part C - Create a Listicle!](#-part-c---create-a-listicle-)
 
 ---
