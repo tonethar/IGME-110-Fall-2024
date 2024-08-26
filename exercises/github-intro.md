@@ -82,21 +82,22 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ## \*\* Part C - Create a Listicle! \*\*
 
-- Listicle as simply lists of Hypertext links that might be useful/interesting to other people
+- Listicles are simply lists of Hypertext links that might be useful/interesting to other people
 - Here are 2 examples of lists that could be considered useful:
   - https://github.com/public-api-lists/public-api-lists
   - https://github.com/leereilly/games
 
-### Exercise - create your own IGME-110 listicle in markdown
+### Exercise - create your own IGME-110 listicle in markdown and publish it to GitHub
 
 - Name the file **my-listicle.md**
-- Give it whatever theme you want  (but be sure to keep it SFW!) - some ideas:
+- Give the list whatever theme you want  (but be sure to keep it SFW!) - some ideas:
   - 110 media resources
   - Generative AI Resources
   - Board Games list, Video game list, ...
   - Cool places
   - Some other list related to a hobby of yours
   - etc
+- At a minimum, use level-1 and level-2 headers, a list of "clickable" links (with at least 5 items in it) and bold text
 - Don't forget to click "Commit changes ..." when you are done!
 - **Submission:** See [https://mycourses.rit.edu](https://mycourses.rit.edu/) "Assignments" tab to see where to upload your link
 
