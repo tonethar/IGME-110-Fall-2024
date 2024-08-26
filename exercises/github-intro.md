@@ -41,7 +41,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ---
 
-### 4 - See how to the current file, or create a new file
+### 4 - See how to edit the current file, and how to create a new file
 
 ![screenshot](_images/github-intro-4.png)
 
