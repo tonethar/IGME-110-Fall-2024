@@ -1,6 +1,6 @@
 # Github Intro & Make a "Listicle"!
 
-## Part A - Setup your GitHub Account
+## \*\* Part A - Setup your GitHub Account \*\*
 
 1. Please set up your GitHub account (you may already have one, or you might have already set it up for a GCCIS programming class).
 You will need to give GitHub your school email address at some point. 
@@ -13,7 +13,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ---
 
-## Part B - Create a GitHub Repository (aka "repo")
+## \*\* Part B - Create a GitHub Repository (aka "repo") \*\*
 
 ### 1 - 
 
@@ -40,7 +40,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 ---
 
 
-## Part C - Create a Listicle!
+## \*\* Part C - Create a Listicle! \*\*
 
 - Here are some examples:
   - https://github.com/public-api-lists/public-api-lists
