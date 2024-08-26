@@ -63,7 +63,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ### 5 - Try editing README.md first
 
-- Refernce:
+- Reference:
   - https://www.markdownguide.org/cheat-sheet/
   - https://www.markdownguide.org/basic-syntax/
   - https://www.markdowntutorial.com/
@@ -73,6 +73,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
   - make unordered and ordered lists
   - create a hypertext link to RIT's home page
   - display an image (give it a image URL from the web)
+- Don't forget to click "Commit changes ..." when you are done!
 - Take a look at this page's markdown:
   - this page was create with markdown!
   - click the "Raw" button to see it
@@ -81,15 +82,23 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
 
 ## \*\* Part C - Create a Listicle! \*\*
 
-- Here are 2 examples of useful lists:
+- Listicle as simply lists of Hypertext links that might be useful/interesting to other people
+- Here are 2 examples of lists that could be considered useful:
   - https://github.com/public-api-lists/public-api-lists
   - https://github.com/leereilly/games
 
-### Exercise - create you own IGME-110 listicle in markdown
+### Exercise - create your own IGME-110 listicle in markdown
 
 - Name the file **my-listicle.md**
-- Give it whatever theme you want  (but be sure to keep it SFW!) - some ideas
-  - Generative AI
+- Give it whatever theme you want  (but be sure to keep it SFW!) - some ideas:
+  - 110 media resources
+  - Generative AI Resources
+  - Board Games list, Video game list, ...
+  - Cool places
+  - Some other list related to a hobby of yours
+  - etc
+- Don't forget to click "Commit changes ..." when you are done!
+- **Submission:** See [https://mycourses.rit.edu](https://mycourses.rit.edu/) "Assignments" tab to see where to upload your link
 
 
 
