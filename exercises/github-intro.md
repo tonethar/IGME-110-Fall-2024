@@ -1,5 +1,13 @@
 # Github Intro & Make a "Listicle"!
 
+---
+
+[Part A - Setup your GitHub Account](#-part-a---setup-your-github-account-)
+[Part B - Create a new GitHub Repository (aka "repo")](#-part-b---create-a-new-github-repository-aka-repo-)
+[Part C - Create a Listicle!](#-part-c---create-a-listicle-)
+
+---
+
 ## \*\* Part A - Setup your GitHub Account \*\*
 
 1. Please set up your GitHub account (you may already have one, or you might have already set it up for a GCCIS programming class).
