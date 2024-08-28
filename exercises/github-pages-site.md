@@ -7,3 +7,7 @@
   - how to use basic markdown to format text content (headers, bold and italic text, and horizontal rules)
   - how to display display images
   - create hypertext links to web pages
+
+### Demo
+- Review of basic markdown covered last time
+- How to create folders on a repo and upload files
