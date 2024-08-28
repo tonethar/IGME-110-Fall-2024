@@ -47,6 +47,7 @@
 ---
 
 **minimal.html**
+
 ```html
 <html>
   <head>
@@ -67,9 +68,9 @@
 
 ---
 
+**hello.html**
 - This page adds some information that browsers like (e.g. the character set and language) as well as information used by HTML validators (e.g. `<!DOCTYPE html>`
   
-**hello.html**
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -86,14 +87,13 @@
 
 ---
 
+**tacos.html**
+
 - This page adds a more content and the beginning of a page layout
 - It also adds an image (which you'll have to locate and download yourself
 - Most importantly, we now have CSS styling:
   - here the styling directives are located in the `<style>` tag
   - *CSS selectors* tell the browser which HTML element to apply the style rules to (e.g. `body`, `h1`, `h2` are all CSS "type" selectors)
-  
-
-**tacos.html**
 
 ```html
 <!DOCTYPE html>
