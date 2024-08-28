@@ -237,9 +237,10 @@
   - rather than just typing in `<h1>Hello!</h1>` (Step #2), instead use the HTML from **links.html** above
   - Don't forget to save ("Commit") **index.html** (Step #3)
   - For Step #4, click on the **Settings** tab, then click on **Pages**, then select the **main** branch and click the Save button
-  - Fianlly, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
+  - Finally, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
     - my IGME-110-Repo is at: https://github.com/tonethar/IGME-110-Repo
     - my IGME-110 HTML Web Masterpiece can be viewed at: https://tonethar.github.io/IGME-110-Repo
+  - BTW - whenever you update your index.html page, it takes a minute or so for the changes to be visible on `https://yourGitHubId.github.io/IGME-110-Repo`
    
 ---
 
