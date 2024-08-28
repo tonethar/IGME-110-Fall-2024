@@ -33,7 +33,7 @@
  
 ### IGM Core Web Classes
 - IGME-235 "Web Tech" - Build web pages, web sites, learn advanced CSS layouts, build a web app, build a web game
-- IGME-330 "Rich Media I) - Advanced interactivity and procedural drawing (the procedural flower app above is from this course)
+- IGME-330 "Rich Media I" - Advanced interactivity and procedural drawing (the procedural flower app above is from this course)
 - IGME-430 "Rich Media II" (required for New Media Interactive Dev, optional for GDD) - build "full stack" web apps and custom servers
 
 ---
