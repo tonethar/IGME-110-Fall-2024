@@ -42,6 +42,7 @@
 - Go ahead and copy the HTML and create these files on your computer
 - You can then open them in Chrome to see how the HTML is rendered
 - You can edit their contents in text editors that handle plain text such as VSCode or Notepad++ (but NOT MS Word)
+- We will start off by looking at **minimal.html** in the web browser, and then discussing how HTML *tags* work
 
 ---
 
