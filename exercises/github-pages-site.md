@@ -70,6 +70,8 @@
 
 **links.html**
 - This page adds some information that browsers like (e.g. the character set and language) as well as information used by HTML validators (e.g. `<!DOCTYPE html>`
+- Also note how we can write a bulleted list in HTML
+- And how we create Hypertext links in HTML
   
 ```html
 <!DOCTYPE html>
@@ -80,7 +82,11 @@
   <title>Links Page</title>
 </head>
 <body>
-  <h1>Hello!</h1>
+  <h1>Some Links</h1>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Taco">Tacos</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hummus">Hummus</a></li>
+  </ul>
 </body>
 </html>
 ```
@@ -142,7 +148,80 @@
 
 **dice-roller.html**
 
+- Finally, here we are using JavaScript to create a simple "Dice Roller" app
+- You can also see some nice button styling
+- and CSS *id selectors*
+
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dice Roller</title>
+  <style>
+    h1{
+      font-family: sans-serif;
+    }
+    /* https://www.w3schools.com/csS/css3_buttons.asp */
+    button {
+      background-color: #04AA6D;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+
+    #btn10{
+      background-color: #008CBA;
+    }
+    
+    #btn20{
+      background-color: #f44336;
+    }
+  </style>
+</head>
+<body>
+  <h1>Dice Roller!</h1>
+  <div>
+    <button id="btn6">D6</button>
+    <button id="btn10">D10</button>
+    <button id="btn20">D20</button>
+  </div>
+
+  <hr>
+
+  <div>The roll is: <span id="numberSpan">???</span></div>
+  <script>
+    // We are putting the <script> tag at the bottom to make sure that 
+    // the HTML page has loaded before we start trying to hook up button events
+    
+    // The following code is loaded in once, when the HTML page first loads
+    
+    function showRandomInt(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      let number = Math.floor(Math.random() * (max - min + 1)) + min;
+      numberSpan.innerHTML = number;
+    }
+
+    btn6.onclick = function(){
+      showRandomInt(1, 6);
+    };
+
+    btn10.onclick = function(){
+      showRandomInt(1, 10);
+    };
+
+    btn20.onclick = function(){
+      showRandomInt(1, 20);
+    };
+  </script>
+</body>
+</html>
 ```
 
 ---
