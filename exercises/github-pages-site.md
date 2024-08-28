@@ -245,6 +245,6 @@
 ---
 
 ## V. Homework
-- Update index.html to display the links from your "listicle" (at least 5 of them)
+- Update **index.html** to display the links (link code written in HTML, NOT markdown!) from your "listicle" (at least 5 of them)
 - Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/IGME-110-Repo/` "web page" version
 - If you have some time over the weekend, look over the HTML PDFs that are posted to myCourses
