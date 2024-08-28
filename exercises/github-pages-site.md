@@ -25,4 +25,10 @@
   - web sites that can run games and interactive experiences - here is an IGME-330 project writen in JavaScript that is running on GitHub Pages: https://tonethar.github.io/projects/procedural-flowers/latest/index.html
  
 ###  HTML/CSS/JSS
-- HyperText Markup Language
+- To build pages and web sites that go beyond what markdown can do, you need: 
+  - HyperText Markup Language - a way to add *structure* to a page (this is heading, this is a paragraph, this is a list etc)
+  - Cacading Style SHeets -  changes the presentation (appearance) of a web page
+  - JavaScript - adds interactivity to a page
+ 
+### IGM Core Web Classes
+- IGME-235 "Web Tech" - Build web pages, web sites, learn advanced CSS layouts, 
