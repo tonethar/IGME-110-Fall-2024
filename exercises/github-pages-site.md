@@ -67,6 +67,8 @@
 
 ---
 
+- This page adds some information that browsers like (e.g. the character set and language) as well as information used by HTML validators (e.g. `<!DOCTYPE html>`
+  
 **hello.html**
 ```html
 <!DOCTYPE html>
@@ -84,9 +86,56 @@
 
 ---
 
+- This page adds a more content and the beginning of a page layout
+- It also adds an image (which you'll have to locate and download yourself
+- Most importantly, we now have CSS styling:
+  - here the styling directives are located in the `<style>` tag
+  - *CSS selectors* tell the browser which HTML element to apply the style rules to (e.g. `body`, `h1`, `h2` are all CSS "type" selectors)
+  
+
 **tacos.html**
 
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #faf2e4;
+      margin: 0 10%;
+      font-family: sans-serif;
+    }
+
+    h1 {  
+      text-align: center;
+      font-family: serif;
+      font-weight: normal;
+      text-transform: uppercase;
+      border-bottom: 1px solid #57b1dc;
+      margin-top: 30px;}
+      
+    h2 {  
+      color: #d1633c;  
+      font-size: 1em;
+    }
+  </style>
+  <title>Taco Tuesday's Restaurant</title>
+</head>
+<body>
+  <h1><img src="images/taco.jpeg" alt="taco" width="175"><br>Taco Tuesday's Restaurant</h1>
+
+<h2>The Restaurant</h2>
+<p>The Taco Tuesday Restaurant offers casual breakfast, lunch, dinner and late-night fare in a relaxed atmosphere. The menu features our curated selection of only the finest local tacos.</p>
+
+<h2>The Staff</h2>
+<p>Passionate about Food. <em>Dedicated.</em> <b>They love working here 7 days a week!</b> <small>(Apply now! We're always hiring!)</small></p>
+
+<h2>Location and Hours</h2>
+<p>West Naragonkshutt, NY;<br>Monday through Sunday 5am to Midnight</p>
+</body>
+</html>
 ```
 
 ---
