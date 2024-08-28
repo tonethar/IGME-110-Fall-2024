@@ -96,7 +96,7 @@
 **tacos.html**
 
 - This page adds a more content and the beginning of a page layout
-- It also adds an image (which you'll have to locate and download yourself
+- It also adds an image (which you'll have to locate and download yourself)
 - Most importantly, we now have CSS styling:
   - here the styling directives are located in the `<style>` tag
   - *CSS selectors* tell the browser which HTML element to apply the style rules to (e.g. `body`, `h1`, `h2` are all CSS "type" selectors)
