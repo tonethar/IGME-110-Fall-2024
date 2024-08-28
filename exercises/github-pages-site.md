@@ -43,6 +43,8 @@
 - You can then open them in Chrome to see how the HTML is rendered
 - You can edit their contents in text editors that handle plain text such as VSCode or Notepad++ (but NOT MS Word)
 
+---
+
 **minimal.html**
 ```html
 <html>
@@ -62,6 +64,8 @@
 </html>
 ```
 
+---
+
 **hello.html**
 ```html
 <!DOCTYPE html>
@@ -77,11 +81,14 @@
 </html>
 ```
 
+---
 
-**foods.html**
+**tacos.html**
 
 ```html
 ```
+
+---
 
 **dice-roller.html**
 
