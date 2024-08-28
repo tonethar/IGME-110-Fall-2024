@@ -238,11 +238,12 @@
   - Don't forget to save ("Commit") **index.html** (Step #3)
   - For Step #4, click on the **Settings** tab, then click on **Pages**, then select the **main** branch and click the Save button
   - Fianlly, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
-    - my IGME-110 masterpiece is at https://tonethar.github.io/IGME-110-Repo/
+    - my IGME-110-Repo is at: https://github.com/tonethar/IGME-110-Repo
+    - my IGME-110 HTML Web Masterpiece can be viewed at: https://tonethar.github.io/IGME-110-Repo
    
 ---
 
 ## V. Homework
 - Update index.html to display the links from your "listicle" (at least 5 of them)
-- Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/IGME-110-Repo/` version
+- Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/IGME-110-Repo/` "web page" version
 - If you have some time over the weekend, look over the HTML PDFs that are posted to myCourses
