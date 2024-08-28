@@ -68,7 +68,7 @@
 
 ---
 
-**hello.html**
+**links.html**
 - This page adds some information that browsers like (e.g. the character set and language) as well as information used by HTML validators (e.g. `<!DOCTYPE html>`
   
 ```html
@@ -77,7 +77,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hello Page</title>
+  <title>Links Page</title>
 </head>
 <body>
   <h1>Hello!</h1>
