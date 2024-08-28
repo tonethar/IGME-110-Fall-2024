@@ -149,6 +149,7 @@
 **dice-roller.html**
 
 - Finally, here we are using JavaScript to create a simple "Dice Roller" app
+- You can see that we are giving some of our HTML elements unique `id` values so that we can reference them in our code
 - You can also see some nice button styling
 - and CSS *id selectors*
 - BTW - as HTML files get larger, we generally start to split them up by moving the JavaScript and CSS to separate files (in this class you won't have to to worry about doing this, unless you really want to)
