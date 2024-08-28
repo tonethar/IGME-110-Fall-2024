@@ -45,11 +45,36 @@
 
 **minimal.html**
 ```html
-
+<html>
+  <head>
+    <!-- This shows up in the window title bar -->
+    <title>My minimal Color page</title>
+  </head>
+  <body>
+    <!-- Everything here shows up in the browser window -->
+    <h1>My Fav Colors!</h1>
+    <ol>
+      <li>Red</li>
+      <li>Green</li>
+      <li>Blue</li>
+    </ol>
+  </body>
+</html>
 ```
 
 **hello.html**
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello Page</title>
+</head>
+<body>
+  <h1>Hello!</h1>
+</body>
+</html>
 ```
 
 
