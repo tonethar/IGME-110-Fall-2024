@@ -12,7 +12,7 @@
 - Review of basic markdown covered last time
 - How to create folders on a repo and upload files
   - go ahead and grab this ZIP of images -> [images.zip](../_files/images.zip)
-  - and we will show you to upload them GitHub, and then link to them from **README.md**
+  - and we will show you to upload them GitHub, and then link to them/display them from **README.md**
 
 ---
 
