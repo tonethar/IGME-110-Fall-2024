@@ -27,8 +27,8 @@
 ###  HTML/CSS/JS
 - To build pages and web sites that go beyond what markdown can do, you need 3 new languages: 
   - HyperText Markup Language (HTML) - a way to add *structure* to a page (this is heading, this is a paragraph, this is a list etc)
-  - Cacading Style Sheets (CSS) -  changes the presentation (appearance) of a web page
-  - JavaScript (JS) - adds interactivity to a page
+  - Cacading Style Sheets (CSS) -  changes the *presentation* (appearance) of a web page
+  - JavaScript (JS) - adds *interactivity* to a page
 - We're going to cover some of the basics in this course (to help you with your projects), and you'll go much deeper in future courses!
  
 ### IGM Core Web Classes
