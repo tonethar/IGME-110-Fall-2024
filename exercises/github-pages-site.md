@@ -151,7 +151,7 @@
 - Finally, here we are using JavaScript to create a simple "Dice Roller" app
 - You can also see some nice button styling
 - and CSS *id selectors*
-- BTW - as HTML files get larger, we generally start to split them up by moving the JavaScript and CSS to seperate files (in this class you won't have to to worry about doing this, unless you really want to)
+- BTW - as HTML files get larger, we generally start to split them up by moving the JavaScript and CSS to separate files (in this class you won't have to to worry about doing this, unless you really want to)
 
 ```html
 <!DOCTYPE html>
