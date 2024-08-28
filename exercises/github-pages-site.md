@@ -36,4 +36,26 @@
 - IGME-330 "Rich Media I) - Advanced interactivity and procedural drawing (the procedural flower app above is from this course)
 - IGME-430 "Rich Media II" (required for New Media Interactive Dev, optional for GDD) - build "full stack" web apps and custom servers
 
+---
 
+## III. Sample HTML Pages
+
+**hello.html**
+```html
+```
+
+
+**foods.html**
+
+```html
+```
+
+**dice-roller.html**
+
+```html
+```
+
+---
+
+## IV. Posting an HTML page to GitHub
+- https://pages.github.com/
