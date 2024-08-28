@@ -229,4 +229,20 @@
 ---
 
 ## IV. Posting an HTML page to GitHub
-- https://pages.github.com/
+- Here are the instructions: https://pages.github.com/
+  - Select "Project site"
+  - Select "Start from scratch"
+  - Head to your **IGME-110-Repo** from last time
+  - When you create an **index.html** file (Step #1) in **IGME-110-Repo**
+  - rather than just typing in `<h1>Hello!</h1>` (Step #2), instead use the HTML from **links.html** above
+  - Don't forget to save ("Commit") **index.html** (Step #3)
+  - For Step #4, click on the **Settings** tab, then click on **Pages**, then select the **main** branch and click the Save button
+  - Fianlly, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
+    - my IGME-110 masterpiece is at https://tonethar.github.io/IGME-110-Repo/
+   
+---
+
+## V. Homework
+- Update index.html to display the links from your "listicle" (at least 5 of them)
+- Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/IGME-110-Repo/` version
+- If you have some time over the weekend, look over the HTML PDFs that are posted to myCourses
