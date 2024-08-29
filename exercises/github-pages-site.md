@@ -1,5 +1,19 @@
 # Creating a GitHub Pages Site
 
+---
+
+[**I. Recap**](#i-recap)
+
+[**II. Markdown vs. HTML/CSS/JS**](#ii-markdown-vs-htmlcssjs)
+
+[**III. Sample HTML Pages**](#iii-sample-html-pages)
+
+[**IV. Posting an HTML page to GitHub**](#iv-posting-an-html-page-to-github)
+
+[**V. Homework**](#v-homework)
+
+---
+
 ## I. Recap
 - Last time ([GitHub Intro](github-intro.md)) we learned:
   - how to create a new GitHub repository named ***yourGithubId*/IGME-110-Repo**
