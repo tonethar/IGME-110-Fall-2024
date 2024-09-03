@@ -13,14 +13,35 @@
 ### I. Section 04 (MW 5:00PM-6:15PM)
 
 #### Team 1
+- Calvin Duffer
+- Leo Rawls
+- Miles Pilchik
+- Cristian Abate
 
 #### Team 2
+- Nate Karwejna
+- Bella Miller
+- Cortland Lehnen
+- Sam Booth
+- Kai Ledonio
 
 #### Team 3
+- Mitchell Parker
+- Jaden Bentley
+- Brandon Donaldson
+- Sean Liebowitz
 
 #### Team 4
+- Jacob Roch
+- George Erikson
+- Kalan Ho
+- Marty Casciani
 
 #### Team 5
+- Ashtyn Long
+- Chrysiie Lynch
+- Ariel Mena
+- Elijah Simonvil
 
 ---
 
