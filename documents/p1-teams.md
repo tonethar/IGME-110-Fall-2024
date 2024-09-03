@@ -62,8 +62,8 @@
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
 ### Team 1
-- Ben Megna
-- Yeyan Zhu
+- Benjamin Megna
+- Yen Zhu
 - Conor Gutierrez
 - Josie Verive-Cain
 - Michael Brands
