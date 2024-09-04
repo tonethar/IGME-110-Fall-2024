@@ -35,7 +35,7 @@
 - Jacob Roch
 - George Erikson
 - Kalan Ho
-- Marty Casciani
+- Martin Casciani
 
 ### Team 5
 - Ashtyn Long
