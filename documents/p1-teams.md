@@ -13,33 +13,33 @@
 ## I. Section 04 (MW 5:00PM-6:15PM)
 
 ### Team 1
-- Calvin Duffer
-- Leo Rawls
-- Miles Pilchik
 - Cristian Abate
+- Calvin Duffer
+- Miles Pilchik
+- Leo Rawls
 
 ### Team 2
-- Nate Karwejna
-- Bella Miller
-- Cortland Lehnen
 - Sam Booth
+- Nate Karwejna
 - Kai Ledonio
+- Cortland Lehnen
+- Bella Miller
 
 ### Team 3
-- Mitchell Parker
 - Jaden Bentley
 - Brandon Donaldson
 - Sean Liebowitz
+- Mitchell Parker
 
 ### Team 4
-- Jacob Roch
 - George Erikson
 - Kalan Ho
-- Martin Casciani
+- Chrysiie Lynch
+- Jacob Roch
 
 ### Team 5
+- Martin Casciani
 - Ashtyn Long
-- Chrysiie Lynch
 - Ariel Mena
 - Elijah Simonvil
 
@@ -49,35 +49,35 @@
 
 ### Team 1
 - Julian Herrera Perez
-- Charlie Weaver
 - Amy Lee
 - Logan Medenica
 - Kieran O'Donnell
+- Charlie Weaver
 
 ### Team 2
-- Gabe Roddy
-- Brooke Maciejewski
 - Silas Howard
 - Aaron Kaltman
+- Brooke Maciejewski
 - Jerame Payne
+- Gabe Roddy
 
 ### Team 3
-- Samantha Osborne
-- Santana Pena
 - Dani Federighi
 - Jordan Landversicht
+- Samantha Osborne
+- Santana Pena
 
 ### Team 4
-- Clayton Lehmann
 - Andrew Kowalcyk
+- Clayton Lehmann
 - Alex Lundquist
 - Mallory Mattsson
 
 ### Team 5
-- Zhao
 - Garnett Facyson
 - Rowan Luti
 - Darren Thibodeau
+- Zhao
 
 ---
 
