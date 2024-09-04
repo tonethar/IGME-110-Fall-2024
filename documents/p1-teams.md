@@ -84,16 +84,16 @@
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
 ### Team 1
-- Benjamin Megna
-- Yen Zhu
-- Conor Gutierrez
-- Josie Verive-Cain
 - Michael Brands
+- Conor Gutierrez
+- Benjamin Megna
+- Josie Verive-Cain
+- Yen Zhu
 
 ### Team 2
 - Anthony Archung
-- Michael Lavella
 - Alejandro Findikli
+- Michael Lavella
 - Dhannie McRae
 - Sean Painton
 
@@ -105,13 +105,13 @@
 - Austin Warner
 
 ### Team 4
-- Davey Walls
 - Bennett DiCarlo
 - Sumay Senapati
+- Davey Walls
 - Brian Weller-Fahy
 
 ### Team 5
-- Sterling Wynham
 - Jackson Kimsey
 - Ryan O'Neill
+- Sterling Wynham
 - Jessica You
