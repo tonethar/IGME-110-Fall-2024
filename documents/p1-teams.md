@@ -48,14 +48,36 @@
 ## II. Section 05 (MW 6:30PM -7:45PM)
 
 ### Team 1
+- Julian Herrera Perez
+- Charlie Weaver
+- Amy Lee
+- Logan Medenica
+- Kieran O'Donnell
 
 ### Team 2
+- Gabe Roddy
+- Brooke Maciejewski
+- Silas Howard
+- Aaron Kaltman
+- Jerame Payne
 
 ### Team 3
+- Samantha Osborne
+- Santana Pena
+- Dani Federighi
+- Jordan Landversicht
 
 ### Team 4
+- Clayton Lehmann
+- Andrew Kowalcyk
+- Alex Lundquist
+- Mallory Mattsson
 
 ### Team 5
+- Zhao
+- Garnett Facyson
+- Rowan Luti
+- Darren Thibodeau
 
 ---
 
