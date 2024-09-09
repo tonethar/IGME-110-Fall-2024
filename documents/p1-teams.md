@@ -32,16 +32,16 @@
 - Mitchell Parker
 
 ### Team 4
-- George Erikson
-- Kalan Ho
-- Chrysiie Lynch
-- Jacob Roch
-
-### Team 5
 - Martin Casciani
 - Ashtyn Long
 - Ariel Mena
 - Elijah Simonvil
+
+### Team 5
+- George Erikson
+- Kalan Ho
+- Chrysiie Lynch
+- Jacob Roch
 
 ---
 
