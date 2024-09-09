@@ -37,11 +37,12 @@
 - Ashtyn Long
 - Ariel Mena
 - Elijah Simonvil
+- Jacob Roch
 
 ### Team 5
 - George Erikson
 - Chrysiie Lynch
-- Jacob Roch
+
 
 ---
 
