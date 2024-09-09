@@ -30,6 +30,7 @@
 - Brandon Donaldson
 - Sean Liebowitz
 - Mitchell Parker
+- Kalan Ho
 
 ### Team 4
 - Martin Casciani
@@ -39,7 +40,6 @@
 
 ### Team 5
 - George Erikson
-- Kalan Ho
 - Chrysiie Lynch
 - Jacob Roch
 
