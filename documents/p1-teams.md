@@ -32,7 +32,7 @@
 - Mitchell Parker
 - Kalan Ho
 
-### Team 4 - *Cooking Website*
+### Team 4 - *Food Avenue - Cooking Website*
 - Martin Casciani
 - Ashtyn Long
 - Ariel Mena
