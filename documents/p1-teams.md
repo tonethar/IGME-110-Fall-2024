@@ -48,14 +48,14 @@
 
 ## II. Section 05 (MW 6:30PM -7:45PM)
 
-### Team 1 - *4D Immersive video game thing (lighting, sound)*
+### Team 1 - *P.R.I.S.M.*
 - Julian Herrera Perez
 - Amy Lee
 - Logan Medenica
 - Kieran O'Donnell
 - Charlie Weaver
 
-### Team 2 - *VR Haptic Feedback suit/gloves/something*
+### Team 2 - *VR Haptic Feedback Suit*
 - Silas Howard
 - Aaron Kaltman
 - Brooke Maciejewski
@@ -68,13 +68,13 @@
 - Samantha Osborne
 - Santana Pena
 
-### Team 4 - *Taser Bed (Environmentally Friendly)*
+### Team 4 - *Taser Bed*
 - Andrew Kowalcyk
 - Clayton Lehmann
 - Alex Lundquist
 - Mallory Mattsson
 
-### Team 5 - *VR Gloves*
+### Team 5 - *Iron Fist VR Gloves*
 - Garnett Facyson
 - Rowan Luti
 - Darren Thibodeau
