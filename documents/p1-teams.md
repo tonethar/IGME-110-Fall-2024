@@ -25,14 +25,14 @@
 - Cortland Lehnen
 - Bella Miller
 
-### Team 3 - *An app that is there to help college students in their day to day lives*
+### Team 3 - *UniAid*
 - Jaden Bentley
 - Brandon Donaldson
 - Sean Liebowitz
 - Mitchell Parker
 - Kalan Ho
 
-### Team 4 - *Food Avenue - Cooking Website*
+### Team 4 - *Food Avenue*
 - Martin Casciani
 - Ashtyn Long
 - Ariel Mena
