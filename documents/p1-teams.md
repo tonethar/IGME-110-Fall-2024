@@ -91,7 +91,7 @@
 - Josie Verive-Cain
 - Yen Zhu
 
-### Team 2 - *AI Pets*
+### Team 2 - *NetPet*
 - Anthony Archung
 - Alejandro Findikli
 - Michael Lavella
@@ -105,13 +105,13 @@
 - Bao Tran Quoc Gia
 - Austin Warner
 
-### Team 4 - *MediCode - Health QR Code Scanner*
+### Team 4 - *MediCode*
 - Bennett DiCarlo
 - Sumay Senapati
 - Davey Walls
 - Brian Weller-Fahy
 
-### Team 5 - *Under-the-radar Game Finder*
+### Team 5 - *GOB (Games Out the Basement)*
 - Jackson Kimsey
 - Ryan O'Neill
 - Sterling Wynham
