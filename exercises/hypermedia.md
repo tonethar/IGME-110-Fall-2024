@@ -31,7 +31,7 @@
 
 - Copy and paste the contents of the Final Product Proposal into **p1.txt**
   
-- Apply rudimentary formatting to **p1.txt**, remove any urls or links, put spaces bwtween headlines and paragraphs etc. If you haven't already done so, bes ure to delete any of the original instructions for the proposal that came with the product proposal template.
+- Apply rudimentary formatting to **p1.txt**, remove any urls or links, put spaces bwtween headlines and paragraphs etc. If you haven't already done so, be sure to delete any of the original instructions for the proposal that came with the product proposal template.
 
 - Save the **p1.txt** document
 
