@@ -55,7 +55,7 @@
 
 3) Optional ***"Extra Extra Credit"***
 
-- Create a GitHub pages HTML version of the Final Product Proposal, extensively "marking up" the content with HTML tags. Use `<h1>`, `<h2>`, `<p>`, lists, hyperlinks, images etc to improve the structure and formatting
+- Create a GitHub pages HTML version of the Final Product Proposal named **p1.html**, extensively "marking up" the content with HTML tags. Use `<h1>`, `<h2>`, `<p>`, lists, hyperlinks, images etc to improve the structure and formatting
 - Worth up to and extra 100% credit on this assignment
 
 ---
