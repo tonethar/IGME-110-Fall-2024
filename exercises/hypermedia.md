@@ -8,7 +8,7 @@
 ---
 
 ## I. Overview - "Marking Up" your P1 Product Proposal 
-- BTW - this is an ***INDVIDUAL ASSIGNMENT*** - everyone in your group can submit this extra credit assignment, but be sure that you are each doing your own "marked up" version
+- BTW - this is an ***INDIVIDUAL ASSIGNMENT*** - everyone in your group can submit this extra credit assignment, but be sure that you are each doing your own "marked up" version
 - In this exercise you are going to create two versions of your group's Final Product Proposal
 
 1) A plain text version named **p1.txt**
@@ -31,7 +31,7 @@
 
 - Copy and paste the contents of the Final Product Proposal into **p1.txt**
   
-- Apply rudimentary formatting to **p1.txt**, remove any urls or links, put spaces bwtween headlines and paragraphs etc
+- Apply rudimentary formatting to **p1.txt**, remove any urls or links, put spaces bwtween headlines and paragraphs etc. If you haven't already done so, bes ure to delete any of the original instructions for the proposal that came with the product proposal template.
 
 - Save the **p1.txt** document
 
