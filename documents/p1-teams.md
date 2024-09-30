@@ -39,10 +39,6 @@
 - Elijah Simonvil
 - Jacob Roch
 
-### Team 5
-- George Erikson
-- Chrysiie Lynch
-
 
 ---
 
