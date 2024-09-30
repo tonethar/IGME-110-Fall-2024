@@ -62,4 +62,4 @@
 
 ## IV. Submission
 
-- Submit the GitHub links (2, or 3 if you went for the ***"Extra Extra Credit"***) to the comments section of the dropbox
+- Submit the GitHub links (2, or 3 if you went for the ***"Extra Extra Credit"***) to the comments section of the myCourses dropbox
