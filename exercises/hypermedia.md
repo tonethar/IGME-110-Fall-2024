@@ -51,6 +51,8 @@
   - horizontal rules to separate sections
   - lastly, links to other web pages
 
+---
+
 3) Optional ***"Extra Extra Credit"***
 
 - Create a GitHub pages HTML version of the Final Product Proposal, extensively "marking up" the content with HTML tags. Use `<h1>`, `<h2>`, `<p>`, lists, hyperlinks, images etc to improve the structure and formatting
@@ -60,4 +62,4 @@
 
 ## IV. Submission
 
-- Submit the GitHub links (2 or 3) to the comments section of the dropbox
+- Submit the GitHub links (2, or 3 if you went for the ***"Extra Extra Credit"***) to the comments section of the dropbox
