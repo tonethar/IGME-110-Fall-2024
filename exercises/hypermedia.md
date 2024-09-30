@@ -61,5 +61,5 @@
 ---
 
 ## IV. Submission
-
+- Compare the various versions of your document - ask yourself -  which is the most visually appealing? which is the most accessible and easy to understand?
 - Submit the GitHub links (2, or 3 if you went for the ***"Extra Extra Credit"***) to the comments section of the myCourses dropbox
