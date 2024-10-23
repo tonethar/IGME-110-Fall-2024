@@ -6,7 +6,7 @@
 
 [**II. Deliverable --> Interactive Prototype - Lo-Fi Version**](#ii-interactive-prototype---lo-fi-version)
 
-[**III. Interactive Prototype - Final Version**]()
+[**III. Interactive Prototype - Final Version**](#iii-interactive-prototype---final-version--presentation)
 
 [**IV. Interactive Prototype - Presentation**]()
 
