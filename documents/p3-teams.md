@@ -62,7 +62,7 @@
 
 ---
 
-## III. Section 06 (TR 5:00PM-6:15PM)
+## III. Section 06 (TR 5:00PM-6:15PM) - 23
 
 - Anthony Archung
 - Michael Brands
