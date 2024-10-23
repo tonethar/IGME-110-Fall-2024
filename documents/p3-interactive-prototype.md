@@ -8,7 +8,7 @@
 
 [**III. Interactive Prototype - Final Version**](#iii-interactive-prototype---final-version)
 
-[**IV. Interactive Prototype - Presentation**]()
+[**IV. Interactive Prototype - Presentation**](#iv-presentation)
 
 ---
 
