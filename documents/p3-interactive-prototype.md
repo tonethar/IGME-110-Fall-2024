@@ -136,17 +136,17 @@ This presentation should be engaging, professional, and well-organized, demonstr
 Your presentation should follow a logical structure, guiding the audience through the project from concept to completion. Include the following sections:
 
 - **1. Introduction and Project Overview**
-  - Project Manager: Introduce your group and briefly explain the core experience you selected from the infographic. Provide a high-level overview of the project’s goals and the target audience.
+  - ***Project Manager:*** Introduce your group and briefly explain the core experience you selected from the infographic. Provide a high-level overview of the project’s goals and the target audience.
 - **2. Infographic and Research:**
-  - Research Lead: Present the key findings from the infographic and any additional research that helped guide the project. Explain how your group identified the core experience from the infographic.
+  - ***Research Lead:*** Present the key findings from the infographic and any additional research that helped guide the project. Explain how your group identified the core experience from the infographic.
 - **3. Design and Development:**
-  - Design Lead & Prototype Developer: Walk the audience through the design and development process. Explain the visual and interactive elements of your prototype and how these elements align with your project’s goals and the needs of your target audience. Highlight any key design choices and demonstrate how the prototype functions.
+  - ***Design Lead & Prototype Developer:*** Walk the audience through the design and development process. Explain the visual and interactive elements of your prototype and how these elements align with your project’s goals and the needs of your target audience. Highlight any key design choices and demonstrate how the prototype functions.
 - **4. Feedback and Iteration:**
-  - Usability Tester: Explain how the group used feedback from the in-class critique to improve the prototype. Provide specific examples of changes made based on the feedback, focusing on usability, design, and functionality improvements.
+  - ***Usability Tester:*** Explain how the group used feedback from the in-class critique to improve the prototype. Provide specific examples of changes made based on the feedback, focusing on usability, design, and functionality improvements.
 - **5. Content (if group of 6):**
-  - Content Lead: If your prototype includes any narrative, messaging, or textual elements, explain how these were developed to support the project’s overall experience. Discuss how these elements enhance the prototype and connect with your target audience.
+  - ***Content Lead:*** If your prototype includes any narrative, messaging, or textual elements, explain how these were developed to support the project’s overall experience. Discuss how these elements enhance the prototype and connect with your target audience.
 - **6. Conclusion and Call to Action:**
-  - Project Manager: Wrap up the presentation by summarizing the key points and reinforcing how your prototype conveys the experience identified from the infographic. End with a strong conclusion and a call to action, encouraging the audience to imagine the impact or value of your project.
+  - ***Project Manager:*** Wrap up the presentation by summarizing the key points and reinforcing how your prototype conveys the experience identified from the infographic. End with a strong conclusion and a call to action, encouraging the audience to imagine the impact or value of your project.
 
 #### 2. Prototype Demonstration:
 Your presentation should include a live demonstration of the final prototype. This is where you showcase the functionality, design, and user experience. During the demo:
