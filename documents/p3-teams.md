@@ -10,7 +10,7 @@
 
 ---
 
-## I. Section 04 (MW 5:00PM-6:15PM)
+## I. Section 04 (MW 5:00PM-6:15PM) - 19
 
 - Cristian Abate
 - Jaden Bentley
@@ -34,73 +34,56 @@
 
 ---
 
-## II. Section 05 (MW 6:30PM -7:45PM)
+## II. Section 05 (MW 6:30PM -7:45PM) - 22
 
-### Team 1 - *P.R.I.S.M.*
+- Garnett Facyson
+- Dani Federighi
 - Julian Herrera Perez
-- Amy Lee
-- Logan Medenica
-- Kieran O'Donnell
-- Charlie Weaver
-
-### Team 2 - *VR Haptic Feedback Suit*
 - Silas Howard
 - Aaron Kaltman
-- Brooke Maciejewski
-- Jerame Payne
-- Gabe Roddy
-
-### Team 3 - *Excuse Genie*
-- Dani Federighi
-- Jordan Landversicht
-- Samantha Osborne
-- Santana Pena
-
-### Team 4 - *Taser Bed*
 - Andrew Kowalcyk
+- Jordan Landversicht
+- Amy Lee
 - Clayton Lehmann
 - Alex Lundquist
-- Mallory Mattsson
-
-### Team 5 - *Iron Fist VR Gloves*
-- Garnett Facyson
 - Rowan Luti
+- Brooke Maciejewski
+- Logan Medenica
+- Kieran O'Donnell
+- Samantha Osborne
+- Mallory Mattsson
+- Jerame Payne
+- Santana Pena
+- Gabe Roddy
+- Charlie Weaver
 - Darren Thibodeau
-- Zhao
+- PeiYuan Zhao
+
 
 ---
 
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
-### Team 1 - *Anime Soap Lootboxes*
-- Michael Brands
-- Conor Gutierrez
-- Benjamin Megna
-- Josie Verive-Cain
-- Yen Zhu
-
-### Team 2 - *NetPet*
 - Anthony Archung
-- Alejandro Findikli
-- Michael Lavella
-- Dhannie McRae
-- Sean Painton
-
-### Team 3 - *ARG Website*
+- Michael Brands
+- Bennett DiCarlo
 - Zane Faraday
+- Alejandro Findikli
+- Dhannie Graham-McRae
+- Conor Gutierrez
+- Jackson Kimsey
+- Michael Lavella
+- Benjamin Megna
+- Ryan O'Neill
+- Sean Painton
+- Sumay Senapati
 - Sophia Signoriello
 - Annora Streible
 - Bao Tran Quoc Gia
-- Austin Warner
-
-### Team 4 - *MediCode*
-- Bennett DiCarlo
-- Sumay Senapati
+- Josie Verive-Cain
 - Davey Walls
+- Austin Warner
 - Brian Weller-Fahy
-
-### Team 5 - *GOB (Games Out the Basement)*
-- Jackson Kimsey
-- Ryan O'Neill
 - Sterling Wynham
 - Jessica You
+- Yen Zhu
