@@ -10,7 +10,7 @@
 
 ---
 
-## I. Section 04 (MW 5:00PM-6:15PM) - 19
+## I. Section 04 (MW 5:00PM-6:15PM) - 18
 
 - Cristian Abate
 - Jaden Bentley
@@ -27,7 +27,6 @@
 - Ariel Mena
 - Bella Miller
 - Mitchell Parker
-- Miles Pilchik
 - Leo Rawls
 - Jacob Roch
 - Elijah Simonvil
