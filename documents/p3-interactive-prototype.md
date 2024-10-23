@@ -1,8 +1,12 @@
 # Project 3 - Interactive Prototype
 
+***\*See myCourses Assignments tab for due dates\****
+
 [**I. Deliverable --> Interactive Prototype - Work Plan**](#i-interactive-prototype---work-plan)
 
 [**II. Deliverable --> Interactive Prototype - Lo-Fi Version**](#ii-interactive-prototype---lo-fi-version)
+
+[**III. Interactive Prototype - Final Version & Presentation**]()
 
 ---
 
