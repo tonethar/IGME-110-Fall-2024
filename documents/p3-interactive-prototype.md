@@ -6,7 +6,9 @@
 
 [**II. Deliverable --> Interactive Prototype - Lo-Fi Version**](#ii-interactive-prototype---lo-fi-version)
 
-[**III. Interactive Prototype - Final Version & Presentation**]()
+[**III. Interactive Prototype - Final Version**]()
+
+[**IV. Interactive Prototype - Presentation**]()
 
 ---
 
@@ -120,12 +122,15 @@ The prototype does not need to be a fully working software product, but it shoul
 - Does the prototype show creative and innovative thinking in how it addresses the core experience?
 - Is the solution well thought out and executed in a way that engages the target audience?
 
-### III-C. Presentation
+---
+---
+
+## IV. Presentation
 This is your group’s opportunity to pitch your digital prototype to the class as if you were presenting it to stakeholders or investors. You will walk your audience through the project’s concept, the process you followed, and the key features of your final prototype. The goal is to effectively communicate how your project addresses the core experience identified in the infographic and how it resonates with your target audience.
 
 This presentation should be engaging, professional, and well-organized, demonstrating not only the prototype itself but also the design and thought process behind it. Each group member is expected to contribute based on their guiding role and every group member should be prepared to answer questions about the entire project if needed.
 
-#### Presentation Requirements:
+### Presentation Requirements:
 #### 1. Structure of the Presentation:
 
 Your presentation should follow a logical structure, guiding the audience through the project from concept to completion. Include the following sections:
