@@ -1,6 +1,6 @@
 # Project 3 - Interactive Prototype
 
-[**I. Interactive Prototype - Work Plan**]()
+[**I. Interactive Prototype - Work Plan**](#i-interactive-prototype---work-plan)
 
 [**II. Interactive Prototype - Lo-Fi Version**]()
 
