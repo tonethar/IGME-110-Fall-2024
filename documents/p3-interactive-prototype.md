@@ -82,7 +82,7 @@ Submit both the prototype and the form to myCourses before the dropbox closes.
 ---
 ---
 
-## III. Interactive Prototype - Final Version & Presentation
+## III. Interactive Prototype - Final Version
 
 ### Final Prototype
 After incorporating feedback from the in-class critique and refining your design, the final version of your prototype should be polished, functional, and reflective of your project’s goal. Your prototype should clearly demonstrate the core experience from your selected infographic and be aligned with the needs of your target audience.
