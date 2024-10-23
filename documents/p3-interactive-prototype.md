@@ -1,8 +1,8 @@
 # Project 3 - Interactive Prototype
 
-[**I. Interactive Prototype - Work Plan**](#i-interactive-prototype---work-plan)
+[**I. Deliverable --> Interactive Prototype - Work Plan**](#i-interactive-prototype---work-plan)
 
-[**II. Interactive Prototype - Lo-Fi Version**](#ii-interactive-prototype---lo-fi-version)
+[**II. Deliverable --> Interactive Prototype - Lo-Fi Version**](#ii-interactive-prototype---lo-fi-version)
 
 ---
 
