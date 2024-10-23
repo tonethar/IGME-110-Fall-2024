@@ -2,7 +2,7 @@
 
 [**I. Interactive Prototype - Work Plan**](#i-interactive-prototype---work-plan)
 
-[**II. Interactive Prototype - Lo-Fi Version**]()
+[**II. Interactive Prototype - Lo-Fi Version**](#ii-interactive-prototype---lo-fi-version)
 
 ---
 
