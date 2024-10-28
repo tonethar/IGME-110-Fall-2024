@@ -60,13 +60,14 @@
 - Samantha Osborne
 - Jerame Payne
 - Darren Thibodeau
+- Gabe Roddy
 
 ### Team 4
 - Aaron Kaltman
 - Alex Lundquist
 - Mallory Mattsson
 - Kieran O'Donnell
-- Gabe Roddy
+
 
 ### Team 5
 - Dani Federighi
