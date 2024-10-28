@@ -12,24 +12,31 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM) - 18
 
+### Team 1
 - Cristian Abate
 - Jaden Bentley
 - Sam Booth
-- Martin Casciani
+- Ashtyn Long
+- Ariel Mena
+
+### Team 2
 - Brandon Donaldson
 - Calvin Duffer
 - Kalan Ho
-- Nate Karwejna
 - Kai Ledonio
+- Elijah Simonvil
+  
+### Team 3
+- Martin Casciani
 - Cortland Lehnen
 - Sean Liebowitz
-- Ashtyn Long
-- Ariel Mena
+- Leo Rawls
+
+### Team 4
+- Nate Karwejna
 - Bella Miller
 - Mitchell Parker
-- Leo Rawls
 - Jacob Roch
-- Elijah Simonvil
 
 ---
 
