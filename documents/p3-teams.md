@@ -79,35 +79,34 @@
 ## III. Section 06 (TR 5:00PM-6:15PM) - 23
 
 ### Team 1
+- Bennett DiCarlo
+- Benjamin Megna
+- Sophia Signoriello
+- Yen Zhu
 
 ### Team 2
-
-### Team 3
-
-### Team 4
-
-### Team 5
-
-- Anthony Archung
-- Michael Brands
-- Bennett DiCarlo
-- Zane Faraday
-- Alejandro Findikli
-- Dhannie Graham-McRae
 - Conor Gutierrez
-- Jackson Kimsey
-- Michael Lavella
-- Benjamin Megna
-- Ryan O'Neill
-- Sean Painton
 - Sumay Senapati
-- Sophia Signoriello
 - Annora Streible
 - Bao Tran Quoc Gia
 - Josie Verive-Cain
+
+### Team 3
+- Michael Brands
+- Zane Faraday
+- Dhannie Graham-McRae
+- Michael Lavella
 - Davey Walls
+
+### Team 4
+- Alejandro Findikli
+- Jackson Kimsey
 - Austin Warner
 - Brian Weller-Fahy
 - Sterling Wynham
+
+### Team 5
+- Anthony Archung
+- Ryan O'Neill
+- Sean Painton
 - Jessica You
-- Yen Zhu
