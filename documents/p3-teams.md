@@ -42,33 +42,51 @@
 
 ## II. Section 05 (MW 6:30PM -7:45PM) - 22
 
-- Garnett Facyson
-- Dani Federighi
+### Team 1
 - Julian Herrera Perez
 - Silas Howard
-- Aaron Kaltman
-- Andrew Kowalcyk
 - Jordan Landversicht
-- Amy Lee
-- Clayton Lehmann
-- Alex Lundquist
 - Rowan Luti
-- Brooke Maciejewski
-- Logan Medenica
-- Kieran O'Donnell
-- Samantha Osborne
-- Mallory Mattsson
-- Jerame Payne
-- Santana Pena
-- Gabe Roddy
-- Charlie Weaver
-- Darren Thibodeau
 - PeiYuan Zhao
 
+### Team 2
+- Andrew Kowalcyk
+- Amy Lee
+- Brooke Maciejewski
+- Santana Pena
+
+### Team 3
+- Logan Medenica
+- Samantha Osborne
+- Jerame Payne
+- Darren Thibodeau
+
+### Team 4
+- Aaron Kaltman
+- Alex Lundquist
+- Mallory Mattsson
+- Kieran O'Donnell
+- Gabe Roddy
+
+### Team 5
+- Dani Federighi
+- Garnett Facyson
+- Clayton Lehmann
+- Charlie Weaver
 
 ---
 
 ## III. Section 06 (TR 5:00PM-6:15PM) - 23
+
+### Team 1
+
+### Team 2
+
+### Team 3
+
+### Team 4
+
+### Team 5
 
 - Anthony Archung
 - Michael Brands
