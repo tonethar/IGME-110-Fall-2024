@@ -2,9 +2,9 @@
 
 ## I. Readings
 - Next week you’ll be testing each other’s prototypes and providing feedback on how well they work. Here are some readings to help you prepare for that: 
-  - [Usability Testing 101]()
-  - [You Are Not the User: The False-Consensus Effect ]()
-  - [How to write effective tasks for prototype testing | Optimal Workshop Help Center ]()
+  - [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
+  - [You Are Not the User: The False-Consensus Effect](https://www.nngroup.com/articles/false-consensus/)
+  - [How to write effective tasks for prototype testing | Optimal Workshop Help Center](https://support.optimalworkshop.com/en/articles/9689728-how-to-write-effective-tasks-for-prototype-testing)
 
 
 ## II. Questions 
