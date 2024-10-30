@@ -1,4 +1,4 @@
-# Week 10 Study Guide: User Testing
+# Study Guide 9: User Testing
 
 ## I. Readings
 - Next week you’ll be testing each other’s prototypes and providing feedback on how well they work. Here are some readings to help you prepare for that: 
