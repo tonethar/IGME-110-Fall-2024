@@ -79,34 +79,34 @@
 
 ## III. Section 06 (TR 5:00PM-6:15PM) - 23
 
-### Team 1
+### Team 1 - *Excuse Genie*
 - Bennett DiCarlo
 - Benjamin Megna
 - Sophia Signoriello
 - Yen Zhu
 
-### Team 2
+### Team 2 - *Excuse Genie*
 - Conor Gutierrez
 - Sumay Senapati
 - Annora Streible
 - Bao Tran Quoc Gia
 - Josie Verive-Cain
 
-### Team 3
+### Team 3 - *Excuse Genie*
 - Michael Brands
 - Zane Faraday
 - Dhannie Graham-McRae
 - Michael Lavella
 - Davey Walls
 
-### Team 4
+### Team 4 - *Excuse Genie*
 - Alejandro Findikli
 - Jackson Kimsey
 - Austin Warner
 - Brian Weller-Fahy
 - Sterling Wynham
 
-### Team 5
+### Team 5 - *BetWise*
 - Anthony Archung
 - Ryan O'Neill
 - Sean Painton
