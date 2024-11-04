@@ -12,27 +12,27 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM) - 18
 
-### Team 1
+### Team 1 - *Excuse Genie*
 - Cristian Abate
 - Jaden Bentley
 - Sam Booth
 - Ashtyn Long
 - Ariel Mena
 
-### Team 2
+### Team 2 - *Anime Soap Lootboxes*
 - Brandon Donaldson
 - Calvin Duffer
 - Kalan Ho
 - Kai Ledonio
 - Elijah Simonvil
   
-### Team 3
+### Team 3 - *Excuse Genie*
 - Martin Casciani
 - Cortland Lehnen
 - Sean Liebowitz
 - Leo Rawls
 
-### Team 4
+### Team 4 - *Taser Bed*
 - Nate Karwejna
 - Bella Miller
 - Mitchell Parker
@@ -42,34 +42,34 @@
 
 ## II. Section 05 (MW 6:30PM -7:45PM) - 22
 
-### Team 1
+### Team 1 - *Augmented Reality Game (or website?)*
 - Julian Herrera Perez
 - Silas Howard
 - Jordan Landversicht
 - Rowan Luti
 - PeiYuan Zhao
 
-### Team 2
+### Team 2 - *Food Avenue*
 - Andrew Kowalcyk
 - Amy Lee
 - Brooke Maciejewski
 - Santana Pena
 
-### Team 3
+### Team 3 - *Games Out the Basement*
 - Logan Medenica
 - Samantha Osborne
 - Jerame Payne
 - Darren Thibodeau
 - Gabe Roddy
 
-### Team 4
+### Team 4 - *Augmented Reality Game*
 - Aaron Kaltman
 - Alex Lundquist
 - Mallory Mattsson
 - Kieran O'Donnell
 
 
-### Team 5
+### Team 5 - *Net Pets*
 - Dani Federighi
 - Garnett Facyson
 - Clayton Lehmann
