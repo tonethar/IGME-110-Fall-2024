@@ -12,7 +12,7 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM) - 18
 
-### Team 1 - *Excuse Genie*
+### Team 1 - *Excuse Genie App*
 - Cristian Abate
 - Jaden Bentley
 - Sam Booth
@@ -26,13 +26,13 @@
 - Kai Ledonio
 - Elijah Simonvil
   
-### Team 3 - *Excuse Genie*
+### Team 3 - *Excuse Genie App*
 - Martin Casciani
 - Cortland Lehnen
 - Sean Liebowitz
 - Leo Rawls
 
-### Team 4 - *Taser Bed*
+### Team 4 - *Taser Bed Companion App*
 - Nate Karwejna
 - Bella Miller
 - Mitchell Parker
@@ -42,20 +42,20 @@
 
 ## II. Section 05 (MW 6:30PM -7:45PM) - 22
 
-### Team 1 - *Augmented Reality Game (or website?)*
+### Team 1 - *Augmented Reality Game*
 - Julian Herrera Perez
 - Silas Howard
 - Jordan Landversicht
 - Rowan Luti
 - PeiYuan Zhao
 
-### Team 2 - *Food Avenue*
+### Team 2 - *Food Avenue App*
 - Andrew Kowalcyk
 - Amy Lee
 - Brooke Maciejewski
 - Santana Pena
 
-### Team 3 - *Games Out the Basement*
+### Team 3 - *Games Out the Basement Website*
 - Logan Medenica
 - Samantha Osborne
 - Jerame Payne
@@ -69,7 +69,7 @@
 - Kieran O'Donnell
 
 
-### Team 5 - *Net Pets*
+### Team 5 - *Net Pets Companion App*
 - Dani Federighi
 - Garnett Facyson
 - Clayton Lehmann
