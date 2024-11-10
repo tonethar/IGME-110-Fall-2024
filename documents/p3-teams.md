@@ -95,7 +95,6 @@
 ### Team 3 - *Excuse Genie App*
 - Michael Brands
 - Zane Faraday
-- Dhannie Graham-McRae
 - Michael Lavella
 - Davey Walls
 
