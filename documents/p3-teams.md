@@ -65,9 +65,7 @@
 ### Team 4 - *Augmented Reality Game*
 - Aaron Kaltman
 - Alex Lundquist
-- Mallory Mattsson
 - Kieran O'Donnell
-
 
 ### Team 5 - *Net Pets Companion App*
 - Dani Federighi
