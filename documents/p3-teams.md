@@ -13,7 +13,7 @@
 ## I. Section 04 (MW 5:00PM-6:15PM) - 18
 
 ### Team 1 - *Excuse Genie App*
-- Presentation - [Team-1-Excuse-Genie-Presentation.pdf](p3-files/Team-1-Excuse-Genie-Presentation.pdf)
+- Presentation - [Excuse Genie Presentation](https://docs.google.com/presentation/d/1t7PitBntePqZ6LXvXX4xtAO-ERN3M2ixDAeDq06hPcA/edit#slide=id.p)
 - App - ***<LINK COMING SOON&gt;***
 - Team:
   - Cristian Abate
