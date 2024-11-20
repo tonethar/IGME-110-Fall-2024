@@ -65,8 +65,8 @@
   - PeiYuan Zhao
 
 ### Team 2 - *Food Avenue App*
-- Presentation - 
-- App -
+- Presentation - [*Food Avenue* Presentation](https://docs.google.com/presentation/d/1qDlrbqKCO3rwXjCwqYrKFSz8MJvTzvthcROj-TDX-C4/edit#slide=id.g313f28c042c_0_34)
+- App - ***<LINK COMING SOON&gt;***
 - Team:
   - Andrew Kowalcyk
   - Amy Lee
@@ -74,8 +74,8 @@
   - Santana Pena
 
 ### Team 3 - *Games Out the Basement Website*
-- Presentation - 
-- App -
+- Presentation - [*Games Out the Basement* Presentation](https://www.canva.com/design/DAGWNyTwU7w/v4t1z6eD3QiK3qpvYf2-Yw/edit)
+- App - [Games Out the Basement App](https://www.figma.com/design/5z9N0k4D1itWZ0WSzGSeHW/GOB-team-3-project-3?node-id=0-1&t=OynZnUufYTWcxh8q-1)
 - Team:
   - Logan Medenica
   - Samantha Osborne
