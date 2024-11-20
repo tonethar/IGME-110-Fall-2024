@@ -109,8 +109,8 @@
 ## III. Section 06 (TR 5:00PM-6:15PM) - 23
 
 ### Team 1 - *Excuse Genie App*
-- Presentation - ***<LINK COMING SOON&gt;***
-- App - etc ...
+- Presentation - [*Excuse Genie* Presentation](https://mycourses.rit.edu/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=2088560&ou=1101737)
+- App - [Excuse Genie App](https://www.figma.com/design/La4mPDzntKfIp8tCtMb5ik/IGME-110-Lofi-Interactive-Prototype?node-id=0-1&t=UUUZfmvYgK4boTmt-1)
 - Team:
   - Bennett DiCarlo
   - Benjamin Megna
@@ -118,8 +118,8 @@
   - Yen Zhu
 
 ### Team 2 - *Excuse Genie Website*
-- Presentation - 
-- App -
+- Presentation - [*Excuse Genie* Presentation](https://docs.google.com/presentation/d/1Q3jvyDYxLUnwpoKcLOjwgV9Nz0vYFQajQ-Lud_K2XAU/edit#slide=id.p)
+- App - ***<LINK COMING SOON&gt;***
 - Team:
   - Conor Gutierrez
   - Sumay Senapati
@@ -128,8 +128,8 @@
   - Josie Verive-Cain
 
 ### Team 3 - *Excuse Genie App*
-- Presentation - 
-- App -
+- Presentation - [*Excuse Genie* Presentation](https://docs.google.com/presentation/d/1aVLgMVZqyFSRweHnmMVnSvc9omwnGFc1EmRYPhOQ9xg/edit#slide=id.p)
+- App - [Excuse Genie App](https://www.figma.com/design/2pU7hlUaqROLV9YKj68Oo9/Excuse-Genie-Mockup?node-id=0-1&node-type=canvas&t=mEsnNdSXBbOERVhJ-0)
 - Team:
   - Michael Brands
   - Zane Faraday
