@@ -23,8 +23,8 @@
   - Ariel Mena
 
 ### Team 2 - *Anime Soap Lootboxes*
-- Presentation - [Team-2-Anime-Soaps-Presentation.pdf](p3-files/Team-2-Anime-Soaps-Presentation.pdf)
-- App -
+- Presentation - [Anime Soaps Presentation](https://docs.google.com/presentation/d/1ipgvc9x1R0Zngq-I60boLRzGUyIztAyDo9wWffsWyA0/edit#slide=id.p)
+- App - [Anime Soaps Product Site](https://animesoaps.wordpress.com/)
 - Team:
   - Brandon Donaldson
   - Calvin Duffer
@@ -33,8 +33,8 @@
   - Elijah Simonvil
   
 ### Team 3 - *Excuse Genie App*
-- Presentation - 
-- App -
+- Presentation - [*Excuse Genie* Presentation](https://docs.google.com/presentation/d/1TfhTnMBGYBCTVbfjNWGVPw3JR1sUGwy7SOyYslXyAH4/edit#slide=id.p)
+- App - [Excuse Genie App](https://docs.google.com/presentation/d/1nEkMZPXjvPJdss0_tGUl8oaSsf6DStDG-uIcOqmfmvU/edit#slide=id.p)
 - Team:
   - Martin Casciani
   - Cortland Lehnen
@@ -42,8 +42,8 @@
   - Leo Rawls
 
 ### Team 4 - *Taser Bed Companion App*
-- Presentation - 
-- App -
+- Presentation - [*Taser Bed* Presentation](https://docs.google.com/presentation/d/1uB3_0DbvEk8B91KAd85ZVb_Am_DibAEo69NdF8jXzBo/edit?usp=sharing)
+- App - [Taser Bed App](https://docs.google.com/presentation/d/1yQt-j4p_uGmI-HJ3YaIRhKy2yGzebqI7tCOcMhi_4Fw/edit#slide=id.p)
 - Team:
   - Nate Karwejna
   - Bella Miller
