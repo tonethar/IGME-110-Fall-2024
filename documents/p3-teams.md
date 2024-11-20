@@ -110,7 +110,7 @@
 
 ### Team 1 - *Excuse Genie App*
 - Presentation - [*Excuse Genie* Presentation](https://mycourses.rit.edu/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=2088560&ou=1101737)
-- App - [Excuse Genie App](https://www.figma.com/design/La4mPDzntKfIp8tCtMb5ik/IGME-110-Lofi-Interactive-Prototype?node-id=0-1&t=UUUZfmvYgK4boTmt-1)
+- App - [Excuse Genie Web App](https://www.figma.com/design/La4mPDzntKfIp8tCtMb5ik/IGME-110-Lofi-Interactive-Prototype?node-id=0-1&t=UUUZfmvYgK4boTmt-1)
 - Team:
   - Bennett DiCarlo
   - Benjamin Megna
