@@ -84,16 +84,20 @@
   - Gabe Roddy
 
 ### Team 4 - *Augmented Reality Game*
-- Presentation - 
-- App -
+- Presentation - [*Alikwood Nature Center* Presentation](https://docs.google.com/presentation/d/1CBPHi-4sTCgdGEO2uPMcAxnsmqOrr2_YVpCQ5S6tsRk/edit#slide=id.p)
+- App:
+  - [Stage 1](https://drive.google.com/file/d/1CorV7LTMqfeC_FBSNDf8uZGInMJyOAGo/view)
+  - Stage 2
+  - Spectrogram Solver
+  - [Stage 3](https://sites.google.com/g.rit.edu/wherestj?usp=sharing)
 - Team:
   - Aaron Kaltman
   - Alex Lundquist
   - Kieran O'Donnell
 
 ### Team 5 - *Net Pets Companion App*
-- Presentation - 
-- App -
+- Presentation - ***<LINK COMING SOON&gt;***
+- App - [Net Pets App](https://www.figma.com/design/QG6k7OTR5wwn0etlnleCmy/Group-4-NETPET-Prototype?node-id=0-1&node-type=canvas&t=ftDQmPyStlSPsN7f-0)
 - Team:
   - Dani Federighi
   - Garnett Facyson
