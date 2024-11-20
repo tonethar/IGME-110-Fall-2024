@@ -14,7 +14,7 @@
 
 ### Team 1 - *Excuse Genie App*
 - Presentation - [Team-1-Excuse-Genie-Presentation.pdf](p3-files/Team-1-Excuse-Genie-Presentation.pdf)
-- App - **<LINK COMING SOON&gt;****
+- App - ***<LINK COMING SOON&gt;***
 - Team:
   - Cristian Abate
   - Jaden Bentley
