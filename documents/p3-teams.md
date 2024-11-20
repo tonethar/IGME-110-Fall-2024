@@ -13,7 +13,7 @@
 ## I. Section 04 (MW 5:00PM-6:15PM) - 18
 
 ### Team 1 - *Excuse Genie App*
-- Presentation - [Excuse Genie Presentation](https://docs.google.com/presentation/d/1t7PitBntePqZ6LXvXX4xtAO-ERN3M2ixDAeDq06hPcA/edit#slide=id.p)
+- Presentation - [*Excuse Genie App* Presentation](https://docs.google.com/presentation/d/1t7PitBntePqZ6LXvXX4xtAO-ERN3M2ixDAeDq06hPcA/edit#slide=id.p)
 - App - ***<LINK COMING SOON&gt;***
 - Team:
   - Cristian Abate
@@ -23,7 +23,7 @@
   - Ariel Mena
 
 ### Team 2 - *Anime Soap Lootboxes*
-- Presentation - [Anime Soaps Presentation](https://docs.google.com/presentation/d/1ipgvc9x1R0Zngq-I60boLRzGUyIztAyDo9wWffsWyA0/edit#slide=id.p)
+- Presentation - [*Anime Soap Companion App* Presentation](https://docs.google.com/presentation/d/1ipgvc9x1R0Zngq-I60boLRzGUyIztAyDo9wWffsWyA0/edit#slide=id.p)
 - App - [Anime Soaps Product Site](https://animesoaps.wordpress.com/)
 - Team:
   - Brandon Donaldson
@@ -33,7 +33,7 @@
   - Elijah Simonvil
   
 ### Team 3 - *Excuse Genie App*
-- Presentation - [*Excuse Genie* Presentation](https://docs.google.com/presentation/d/1TfhTnMBGYBCTVbfjNWGVPw3JR1sUGwy7SOyYslXyAH4/edit#slide=id.p)
+- Presentation - [*Excuse Genie App* Presentation](https://docs.google.com/presentation/d/1TfhTnMBGYBCTVbfjNWGVPw3JR1sUGwy7SOyYslXyAH4/edit#slide=id.p)
 - App - [Excuse Genie App](https://docs.google.com/presentation/d/1nEkMZPXjvPJdss0_tGUl8oaSsf6DStDG-uIcOqmfmvU/edit#slide=id.p)
 - Team:
   - Martin Casciani
@@ -42,7 +42,7 @@
   - Leo Rawls
 
 ### Team 4 - *Taser Bed Companion App*
-- Presentation - [*Taser Bed* Presentation](https://docs.google.com/presentation/d/1uB3_0DbvEk8B91KAd85ZVb_Am_DibAEo69NdF8jXzBo/edit?usp=sharing)
+- Presentation - [*Taser Bed Compansion App* Presentation](https://docs.google.com/presentation/d/1uB3_0DbvEk8B91KAd85ZVb_Am_DibAEo69NdF8jXzBo/edit?usp=sharing)
 - App - [Taser Bed App](https://docs.google.com/presentation/d/1yQt-j4p_uGmI-HJ3YaIRhKy2yGzebqI7tCOcMhi_4Fw/edit#slide=id.p)
 - Team:
   - Nate Karwejna
