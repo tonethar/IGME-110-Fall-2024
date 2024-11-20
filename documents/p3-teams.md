@@ -14,7 +14,7 @@
 
 ### Team 1 - *Excuse Genie App*
 - Presentation - [*Excuse Genie App* Presentation](https://docs.google.com/presentation/d/1t7PitBntePqZ6LXvXX4xtAO-ERN3M2ixDAeDq06hPcA/edit#slide=id.p)
-- App - ***<LINK COMING SOON&gt;***
+- App - [Excuse Genie App](https://dogdoge0-0.github.io/Excuse-Genie-Interactive-Prototype/Excuse-Genie-Interactive-Prototype/)
 - Team:
   - Cristian Abate
   - Jaden Bentley
@@ -105,8 +105,8 @@
 ## III. Section 06 (TR 5:00PM-6:15PM) - 23
 
 ### Team 1 - *Excuse Genie App*
-- Presentation - 
-- App -
+- Presentation - ***<LINK COMING SOON&gt;***
+- App - etc ...
 - Team:
   - Bennett DiCarlo
   - Benjamin Megna
