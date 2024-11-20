@@ -23,7 +23,7 @@
   - Ariel Mena
 
 ### Team 2 - *Anime Soap Lootboxes*
-- Presentation - 
+- Presentation - [Team-2-Anime-Soaps-Presentation.pdf](p3-files/Team-2-Anime-Soaps-Presentation.pdf)
 - App -
 - Team:
   - Brandon Donaldson
