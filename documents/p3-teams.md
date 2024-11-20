@@ -137,8 +137,8 @@
   - Davey Walls
 
 ### Team 4 - *Excuse Genie Website*
-- Presentation - 
-- App -
+- Presentation - [*Excuse Genie* Presentation](https://docs.google.com/presentation/d/1PHFCYfuxXetEf1Ebq4qvaoB7FtyqlxTztOR_YCwp7So/edit#slide=id.p1)
+- App - [Excuse Genie Web App](https://stirfry92.github.io/IGME-110-Project-3-Group-4/)
 - Team:
   - Alejandro Findikli
   - Jackson Kimsey
