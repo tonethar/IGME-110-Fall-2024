@@ -119,7 +119,7 @@
 
 ### Team 2 - *Excuse Genie Website*
 - Presentation - [*Excuse Genie* Presentation](https://docs.google.com/presentation/d/1Q3jvyDYxLUnwpoKcLOjwgV9Nz0vYFQajQ-Lud_K2XAU/edit#slide=id.p)
-- App - ***<LINK COMING SOON&gt;***
+- App - [Excuse Genie Web App](https://tqgiabao2006.github.io/Excuse-Genie-Prototype-Website/)
 - Team:
   - Conor Gutierrez
   - Sumay Senapati
