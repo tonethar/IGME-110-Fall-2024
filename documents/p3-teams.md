@@ -55,8 +55,8 @@
 ## II. Section 05 (MW 6:30PM -7:45PM) - 22
 
 ### Team 1 - *Augmented Reality Game*
-- Presentation - 
-- App -
+- Presentation - [*Ritchie's Missing ARG* Presentation](https://docs.google.com/presentation/d/1BBKN9bgdwU0FZ7G1BCTYBcauJsmmxPfdjjPVypd7guA/edit#slide=id.g314a263c6f9_0_18)
+- App - [*Ritchie's Missing ARG* App Links](https://github.com/MisterFinigan/IGME_110_ARG)
 - Team:
   - Julian Herrera Perez
   - Silas Howard
