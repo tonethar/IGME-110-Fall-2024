@@ -147,8 +147,8 @@
   - Sterling Wynham
 
 ### Team 5 - *BetWise Website*
-- Presentation - 
-- App -
+- Presentation - [*BetWise* Presentation](https://docs.google.com/presentation/d/1NpHX3spptnfqzQSb_0xabCNSIFF97DwB5sPG7NBdWxc/edit#slide=id.p)
+- App - [BestWise Web App](https://jessicay33.github.io/Betwise-Web-Game/)
 - Team:
   - Anthony Archung
   - Ryan O'Neill
