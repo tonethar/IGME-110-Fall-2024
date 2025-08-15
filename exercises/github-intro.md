@@ -1,6 +1,9 @@
 # Github Intro & Make a "Listicle"!
 
-- [Github](https://github.com/) is something you will be using 
+- [Github](https://github.com/](https://en.wikipedia.org/wiki/GitHub) is frequently used in your college courses to host software projects and related code, as well as other files and documents. It uses [Git](https://en.wikipedia.org/wiki/Git) which provides distributed version control.
+- GitHub can also be used to publish and host [markdown](https://en.wikipedia.org/wiki/Markdown) documents (markdown is a lightweight markup language)
+- GitHub also provides one free website per account (this would be a website written in HTML, **H**yper**T**ext **M**arkup **L**anguage)
+- GitHub is ***free*** for education users (students/faculty/staff)
 
 ---
 
