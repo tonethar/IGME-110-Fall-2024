@@ -15,7 +15,7 @@
 
 ---
 
-## \*\* Part A - Setup your GitHub Account \*\*
+## \*\* Part A - Setup your GitHub Account \*\* (Only do this if you do not already have one!)
 
 1. Please set up your GitHub account (you may already have one, or you might have already set it up for a GCCIS programming class).
 You will need to give GitHub your school email address at some point. 
